@@ -91,7 +91,7 @@ I am planning to develop an **AI-powered expense management platform** that comb
   <a href="https://kaggle.com/javierguzmnolaya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/javier-leonardo-guzman-olaya-758569354/)" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-leonardo-guzman-olaya-758569354/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
