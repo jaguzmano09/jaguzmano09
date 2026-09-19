@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Javier Guzmán Olaya</h1>
   <h3>Electronics Engineer | Electrical Engineering Student | Embedded Systems & AI Enthusiast</h3>
-  <img src="https://es.wikipedia.org/wiki/Archivo:Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" alt="Logo de la Universidad Nacional de Colombia" width="180" />
 </div>
 
 <p align="center">
